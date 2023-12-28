@@ -1,0 +1,13 @@
+.swiper-button-next{
+   color: orange;
+   height: 20px;
+   overflow: hidden;
+   top: 52%;
+}
+.swiper-button-prev{
+   color: orange;
+   height: 20px;
+   overflow: hidden;
+   top: 52%;
+   padding: 10px 3px;
+}

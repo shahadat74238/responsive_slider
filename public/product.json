@@ -1,0 +1,93 @@
+[
+   {
+     "id": 1,
+      "name": "Product 1",
+     "image": "product1.jpg",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+     "offer": "20%",
+     "price": 49.99,
+     "rating": 4.5,
+     "offer_price": 39.99
+   },
+   {
+     "id": 2,
+      "name": "Product 2",
+     "image": "product2.jpg",
+     "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+     "offer": null,
+     "price": 29.99,
+     "rating": 3.5,
+     "offer_price": null
+   },
+   {
+     "id": 3,
+      "name": "Product 3",
+     "image": "product3.jpg",
+     "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+     "offer": "10%",
+     "price": 79.99,
+     "rating": 4.5,
+     "offer_price": 71.99
+   },
+   {
+     "id": 4,
+      "name": "Product 4",
+     "image": "product4.jpg",
+     "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "offer": "15%",
+     "price": 39.99,
+     "rating": 4.0,
+     "offer_price": 33.99
+   },
+   {
+     "id": 5,
+      "name": "Product 5",
+     "image": "product5.jpg",
+     "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+     "offer": null,
+     "price": 99.99,
+     "rating": 4.5,
+     "offer_price": null
+   },
+   {
+     "id": 6,
+      "name": "Product 6",
+     "image": "product6.jpg",
+     "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos.",
+     "offer": "25%",
+     "price": 59.99,
+     "rating": 3.5,
+     "offer_price": 44.99
+   },
+   {
+     "id": 7,
+      "name": "Product 7",
+     "image": "product7.jpg",
+     "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+     "offer": null,
+     "price": 89.99,
+     "rating": 4.5,
+     "offer_price": null
+   },
+   {
+     "id": 8,
+      "name": "Product 8",
+     "image": "product8.jpg",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+     "offer": "20%",
+     "price": 69.99,
+     "rating": 5,
+     "offer_price": 55.99
+   },
+   {
+     "id": 9,
+      "name": "Product 9",
+     "image": "product8.jpg",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+     "offer": "20%",
+     "price": 69.99,
+     "rating": 5,
+     "offer_price": 55.99
+   }
+ ]
+ 
